@@ -1,3 +1,5 @@
-int calculate() {
-  return 6 * 7;
+import 'package:pra/src/utilies/run_app.dart';
+
+void main() {
+  runApp();
 }

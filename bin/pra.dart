@@ -1,5 +1,5 @@
-import 'package:pra/main.dart' as pra;
+import 'package:pra/src/utilies/run_app.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${pra.calculate()}!');
+void main() {
+  runApp();
 }
